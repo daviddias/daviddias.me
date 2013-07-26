@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Title of Your Blog</title>
+  <atom:link href="http://yourdomain.com/blog/" rel="self" type="application/rss+xml" />
+  <link>http://yourdomain.com</link>
+	<description>Title of Your Blog</description>
+  <lastBuildDate>Fri, 19 Jul 2013 22:49:06 GMT</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>weekly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://yourdomain.com</generator>
+  
+    <item>
+      <title>Write your Title Here</title>
+      <link>http://yourdomain.com/blog/2013/07/02/thisisyourslug/</link>
+      <pubDate>Tue, 02 Jul 2013 00:20:10 GMT</pubDate>
+      <dc:creator>Write your Author Here</dc:creator>
+      <category><![CDATA[postcategory]]></category>
+
+      <guid isPermaLink="true">http://yourdomain.com/blog/2013/07/02/thisisyourslug/</guid>
+      <description><![CDATA[<h2>Hello everybody!!</h2>
+
+
+<p><h3>This is a post example<h3></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.</p>
+<blockquote>
+  <code>
+var bestEver = function loremIpsum() { console.log(&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.&quot;)}
+ </code>
+</blockquote>
+
+<blockquote>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.
+</blockquote>]]></description>
+      <content:encoded><![CDATA[<h2>Hello everybody!!</h2>
+
+
+<p><h3>This is a post example<h3></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.</p>
+<blockquote>
+  <code>
+var bestEver = function loremIpsum() { console.log(&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.&quot;)}
+ </code>
+</blockquote>
+
+<blockquote>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.
+</blockquote>]]></content:encoded>
+    </item>
+    
+</channel>
+</rss>

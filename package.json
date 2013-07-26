@@ -1,0 +1,23 @@
+{
+  "name": "daviddias.me",
+  "version": "0.1.0",
+  "description": "David Dias personal page",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "David",
+    "Dias",
+    "blog",
+    "work",
+    "homepage"
+  ],
+  "author": "David Dias",
+  "license": "MIT",
+  "dependencies": {
+    "node-static": "~0.7.0",
+    "blog-maker": "~0.2.0"
+  }
+}

@@ -1,0 +1,114 @@
+
+/*
+
+  Nav Bar
+
+*/
+
+.navButton {
+  font-family: 'existencelight', Arial, sans-serif; 
+  font-size: 1.25em;    
+  color: #19a564 
+}
+.navButton:hover {
+  color: #35ea6d    
+}
+
+
+/*
+
+  Header
+
+*/
+
+header {
+    border-top: 15px solid #45d66d;
+    padding-top: 20px;
+}
+
+
+/*
+
+  Section
+
+*/
+
+section {
+  font-family: 'existencelight', Arial, sans-serif; 
+}
+
+section h1,h2,h3,h4,h5,h6,p {
+  font-family: 'existencelight', Arial, sans-serif; 
+}
+
+section h1 {
+    font-size: 5em;
+    
+}
+
+b {
+   font-size: 1.08em;
+}
+
+p {
+  font-size: 1.25em;
+  text-align:justify;
+}
+
+p a {
+  font-family: 'colaborate-mediumregular', Arial, sans-serif;
+  color: #19a564 
+}
+p a:hover{
+  color: #35ea6d  
+}
+
+
+/*
+
+  footer
+
+*/
+
+footer {
+  padding-bottom: 20px;
+  border-bottom: 15px solid #45d66d;    
+}
+
+.social {
+   color: #19a564    
+}
+
+.social:hover {
+  color: #35ea6d    
+}
+
+/*
+BLOG
+*/
+
+.blog h1 {
+  font-size: 2.6em;
+}
+
+.blog h1 a {
+  color: #19a564 
+}
+
+.blog h1 a:hover{
+  color: #35ea6d 
+} 
+
+.post-in-feed p {
+  font-size: 0.80em;  
+}
+
+.post-in-feed blockquote, code {
+  font-size: 0.65em;  
+}
+
+.meta  {
+  font-size: 1.1em;  
+}
+
+
