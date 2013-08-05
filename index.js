@@ -15,4 +15,4 @@ require('http').createServer(function (request, response) {
       file.serve(request, response)
     })
     request.resume()    
-}).listen(80, function() { console.log('Listening on 80')});
+}).listen(process.env.PORT || 80, function() { console.log('Listening on 80')});
