@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Title of Your Blog</title>
+  <atom:link href="http://yourdomain.com/blog/updates/" rel="self" type="application/rss+xml" />
+  <link>http://yourdomain.com</link>
+	<description>Title of Your Blog</description>
+  <lastBuildDate>Fri, 26 Jul 2013 21:21:32 GMT</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>weekly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://yourdomain.com</generator>
+  
+    <item>
+      <title>OHAI World :)</title>
+      <link>http://yourdomain.com/blog/2013/07/26/ohaiworld/</link>
+      <pubDate>Fri, 26 Jul 2013 21:54:10 GMT</pubDate>
+      <dc:creator>David Dias</dc:creator>
+      <category><![CDATA[updates]]></category>
+
+      <guid isPermaLink="true">http://yourdomain.com/blog/2013/07/26/ohaiworld/</guid>
+      <description><![CDATA[<p>
+Finally I&#39;ve a webpage! I&#39;ve promissing myself this for almost a year now, can&#39;t even remember when I parked the domain, but the day had to arrive :) Mostly because I wanted to have a a test production environment for my first <a href="https://npmjs.org/">Node.js module</a> :)
+</p>
+]]></description>
+      <content:encoded><![CDATA[<p>
+Finally I&#39;ve a webpage! I&#39;ve promissing myself this for almost a year now, can&#39;t even remember when I parked the domain, but the day had to arrive :) Mostly because I wanted to have a a test production environment for my first <a href="https://npmjs.org/">Node.js module</a> :)
+</p>
+]]></content:encoded>
+    </item>
+    
+</channel>
+</rss>

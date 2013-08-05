@@ -14,48 +14,28 @@
   <atom:link href="http://yourdomain.com/blog/" rel="self" type="application/rss+xml" />
   <link>http://yourdomain.com</link>
 	<description>Title of Your Blog</description>
-  <lastBuildDate>Fri, 19 Jul 2013 22:49:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 26 Jul 2013 21:21:32 GMT</lastBuildDate>
 	<language>en</language>
 	<sy:updatePeriod>weekly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://yourdomain.com</generator>
   
     <item>
-      <title>Write your Title Here</title>
-      <link>http://yourdomain.com/blog/2013/07/02/thisisyourslug/</link>
-      <pubDate>Tue, 02 Jul 2013 00:20:10 GMT</pubDate>
-      <dc:creator>Write your Author Here</dc:creator>
-      <category><![CDATA[postcategory]]></category>
+      <title>OHAI World :)</title>
+      <link>http://yourdomain.com/blog/2013/07/26/ohaiworld/</link>
+      <pubDate>Fri, 26 Jul 2013 21:54:10 GMT</pubDate>
+      <dc:creator>David Dias</dc:creator>
+      <category><![CDATA[updates]]></category>
 
-      <guid isPermaLink="true">http://yourdomain.com/blog/2013/07/02/thisisyourslug/</guid>
-      <description><![CDATA[<h2>Hello everybody!!</h2>
-
-
-<p><h3>This is a post example<h3></p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.</p>
-<blockquote>
-  <code>
-var bestEver = function loremIpsum() { console.log(&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.&quot;)}
- </code>
-</blockquote>
-
-<blockquote>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.
-</blockquote>]]></description>
-      <content:encoded><![CDATA[<h2>Hello everybody!!</h2>
-
-
-<p><h3>This is a post example<h3></p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.</p>
-<blockquote>
-  <code>
-var bestEver = function loremIpsum() { console.log(&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.&quot;)}
- </code>
-</blockquote>
-
-<blockquote>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sed cursus odio. Sed luctus vestibulum elit. Donec nec velit non dolor vulputate porttitor nec eu turpis. Maecenas auctor ullamcorper commodo. Morbi nunc nisl, porttitor a sagittis a, facilisis vitae nulla. Mauris a eros eu magna dictum cursus. Nam quis nunc non arcu fermentum consectetur ut et ipsum.
-</blockquote>]]></content:encoded>
+      <guid isPermaLink="true">http://yourdomain.com/blog/2013/07/26/ohaiworld/</guid>
+      <description><![CDATA[<p>
+Finally I&#39;ve a webpage! I&#39;ve promissing myself this for almost a year now, can&#39;t even remember when I parked the domain, but the day had to arrive :) Mostly because I wanted to have a a test production environment for my first <a href="https://npmjs.org/">Node.js module</a> :)
+</p>
+]]></description>
+      <content:encoded><![CDATA[<p>
+Finally I&#39;ve a webpage! I&#39;ve promissing myself this for almost a year now, can&#39;t even remember when I parked the domain, but the day had to arrive :) Mostly because I wanted to have a a test production environment for my first <a href="https://npmjs.org/">Node.js module</a> :)
+</p>
+]]></content:encoded>
     </item>
     
 </channel>
