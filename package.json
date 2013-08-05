@@ -1,6 +1,7 @@
 {
   "name": "daviddias.me",
   "version": "0.1.0",
+  "private": false,
   "description": "David Dias personal page",
   "main": "./index",
   "engines": {
