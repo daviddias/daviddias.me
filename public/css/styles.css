@@ -107,4 +107,8 @@ BLOG
   font-size: 1.1em;  
 }
 
-
+p span, p a {
+  font-size: 1.08em;
+  color: #62B178 
+  /*font-weight: 200;*/
+}
