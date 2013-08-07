@@ -1,5 +1,5 @@
 status: private
-title: Write your Title Here
+title: Exceptional people
 author: Write your Author Here
 date: Fri Jul 02 00:20:10 UTC 2013
 slug: thisisyourslug

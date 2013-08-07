@@ -1,3 +1,4 @@
+status: private
 title: OHAI World :)
 author: David Dias
 date: Fri Jul 26 21:54:10 UTC 2013
