@@ -1,0 +1,27 @@
+/* base */ 
+
+@import "vendor/bootstrap-3.0.1/bootstrap.scss";
+
+
+@font-face {
+    font-family: 'existencelight';
+    src: url('/fonts/existence_light_macroman/Existence-Light-webfont.eot');
+    src: url('/fonts/existence_light_macroman/Existence-Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/existence_light_macroman/Existence-Light-webfont.woff') format('woff'),
+         url('/fonts/existence_light_macroman/Existence-Light-webfont.ttf') format('truetype'),
+         url('/fonts/existence_light_macroman/Existence-Light-webfont.svg#existencelight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body {
+  color: blue;
+}
+
+
+p {
+  color: green;
+  font-family: existencelight;
+  font-size: 1.8em;
+}
