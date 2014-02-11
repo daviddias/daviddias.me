@@ -11,7 +11,7 @@ var pending = false;
 
 var watch = [
   'clientApp/js/**/*.js',
-  'clientApp/css/*.scss',
+  'clientApp/css/**/*.scss',
   'serverApp/public/partials/*.html',
 ];
 

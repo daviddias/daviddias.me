@@ -1,0 +1,41 @@
+header {
+  // background-image: url("/img/bg.jpg");
+  background-color: #3bab11;
+  // width: auto;
+  color: white;
+
+  a {
+    color: #56f11b;
+  }
+
+  .row > div {
+      display: inline-block !important;
+      vertical-align: middle;   
+      line-height: 1.5;
+      float:none !important;
+  }
+
+  div > h1 {
+    text-align:center;
+    margin-bottom: 35px;
+    font-size: 4.2em;
+  }
+
+  p { 
+    font-size: 1.2em;
+    text-align: justify;
+
+  }
+
+  // #davidface {
+  //   vertical-align: middle;
+  //   display: inline-block !important;
+  //   // margin-top: 40px;
+  //   // padding-top: 40px;
+  //   // float:none !important;
+
+  // }
+
+
+}
+
