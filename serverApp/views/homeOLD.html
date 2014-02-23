@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OHAI! :D</title>
+  
+  <link rel="icon" type="image/png" href="/favicon.ico" />
+  <link rel='stylesheet' href='css/normalize.css'>
+  <link rel='stylesheet' href='css/personalpage.css'>
+</head>
+
+<body>
+
+  {{> header}}
+
+  <section>
+    <!-- Loud &and; Proud -->
+    <div class="row">
+      <div class="col-md-1">
+      </div>
+      <div class="col-md-10">
+        <h2 align="center">Loud &amp; Proud</h2>
+        <p>Here are some of the projects &amp; organizations I'm proud of having the opportunity to have taken part of, and that make me happy.</p>  
+
+        <div class="row">
+          {{#each things}}
+            <div class="col-md-3 col-sm-4 col-xs-6">
+              <a href="{{url}}"> <img src="{{imageurl}}" /></a>
+              &nbsp;
+            </div>
+          {{/each}}
+        </div>
+        
+      </div>  
+      <div class="col-md-1">
+      </div>  
+    </div>
+  </section>
+
+
+
+
+  <script src="js/jquery-1.10.2/jquery.js"></script>
+  <script src="js/bootstrap-3.0.3/bootstrap.min.js"></script>
+  <script src="js/personalpage.js"></script>
+</body> 
+</html>

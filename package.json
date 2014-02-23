@@ -24,7 +24,9 @@
   "dependencies": {
     "node-static": "~0.7.0",
     "blog-maker": "~0.2.0",
-    "forever": "~0.10.8"
+    "forever": "~0.10.8",
+    "hapi": "~2.5.0",
+    "handlebars": "~2.0.0-alpha.1"
   },
   "devDependencies": {
     "node-static": "~0.7.2",

@@ -1,15 +1,12 @@
-var nodeStatic  = require('node-static');
-var path        = require('path');
-var publicPath  = path.join(__dirname, '..', 'public');
-var file        = new(nodeStatic.Server)(publicPath);
+var Hapi       = require('hapi');
+var options    = require('./options.js');
 
-var server = require('http').createServer(function (request, response) {
-    request.on('end', function () {
-      file.serve(request, response);
-    });
-    request.resume();
-  });
+var port       = parseInt(process.env.PORT) || 8080;
 
-server.listen(process.env.PORT || 8080, function() {
-  console.log('Listening on 8080, serving: ' + publicPath);
+var server     = module.exports =
+  Hapi.createServer(port, options);
+var routes     = require('./routes');
+
+server.start(function () {
+  console.log('Server started at: ' + server.info.uri);
 });
