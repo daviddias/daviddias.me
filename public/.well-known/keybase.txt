@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/daviddias
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://daviddias.me
+  * I am daviddias (https://keybase.io/daviddias) on keybase.
+  * I have a public key with fingerprint 514F 61E0 DEBA 3BDD 1CC6  4B12 65BB 334E A290 D05B
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "514f61e0deba3bdd1cc64b1265bb334ea290d05b",
+            "host": "keybase.io",
+            "key_id": "65BB334EA290D05B",
+            "uid": "d4a4dcf622fbe9d63d784b6f3ac0c100",
+            "username": "daviddias"
+        },
+        "service": {
+            "hostname": "daviddias.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396219186,
+    "expire_in": 157680000,
+    "prev": "cf42ada7d8c0f2e88531242811c3f458e938200065decffd542b38261934ec3e",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+Comment: GPGTools - https://gpgtools.org
+
+owGbwMvMwMWYutvYb9GEC9GMpw98SmIItphrVK2UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslEwNTdLMDFMNUlKTEo2TUlIMk5PNTJIMjcxMk5KMjU1SE40sDVIMTJOU
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgqJmpkxNQvasjUL2LgakTUK4ULJFikmiS
+kpxmZmSUlpRqmWJmnGJuYZJklmacmGyQbGhgAFJYnFqUl5ibClKdWJaZkpKZWKxU
+q6MEFC7LTE4FORpkN7oSPSBXR6mgKL8kPzk/ByiTUVJSYAXSWFJZAFJZnpoUDzUj
+PikzLwXocaCGstSi4sz8PCUrQ6DK5JJMkKGGxpZmRoaWhhZmOkqpFQWZRanxmSAV
+puZmFgZAALImtQxoZHKaiVFiSqJ5ikWyQZpRqoWFqbGhkYmRhaFhsnGaialFqqWx
+hRFQg5lpSmpyWlqKqYlRElDEzNASGJbJxiAHF6cW5uUrWZkAnZmYDjSyODM9L7Gk
+tChVqbaTSYaFgZGLgY2VCRR1DFycArAIPRTA/1fs8N2a6vd+V2WKZ827mpgwZaE6
+17zFu2p5lZ6LX9sTrWx7cFekDEtt8bseltcvSkpqvipt3/lXdK7dBdO/eWett5/R
+SFhn/uDS/uUT1umsuWETpPPwOOvMWycmxD6NErKcHNL2+d5jraMcP9+0B8peN7z9
+2Nbi44w5C5pWrWl0XnrbZUPA0nsZvCIdvW5reuTepp/PvqvOPZ1bZK7+/wWlhjud
+lROWGS1pbnxexMMX3Ljs5hqtjZ6yRT/abuzZ0r1rroW/qFLIRZeZM+SOph9nu9fx
+UePWu+rGhT/+cgs2zdNZtPDMWokzm5K5zh+NN7irkDklS8/18Se5HYtLdvdG9zu0
+2u7NE6s4ZDe3tZypmPnUPvFrianSZlK97Df3KM7Jyj7+0EzWccvmMzfyLm19c+VS
+cqhAlOi5phK+3NYtW2M9vSSEJimrr7fKvvyhw82p+svmh/z5qX059oltsTJPfuTf
+zZxy5fic8itLW0UPef1l+3hwepld0myDm04+ukv8Lfq0/ovZ+gXyXzi05mqA5vbP
+jbFftdhY5P5x+G1slS1xefjn45ZZHTP8L3ct/+rz8GOk/vE1vgxnr22Kjk4RPvNu
+jpL34TOOof+235HLZalv/H538vLrFRkLdVdqhzcI2Nfs9r5//0lx1MW7gSssNpWc
+jZ62ge2uw+Ztwv8UZ3ZafJ+RtbK0+WB9ki/b0VtfC5ftif2mOs8rwVAJAA==
+=m+yy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/daviddias
+
+==================================================================
