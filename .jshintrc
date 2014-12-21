@@ -15,11 +15,6 @@
   "maxdepth"      : 3,
   "maxlen"        : 80,
   "globals"       : {
-                      "angular":true,
-                      "moment":true,
-                      "console": true,
-                      "define": true,
-                      "require": true,
-                      "personalpageControllers": true
+    "console": true
   }
 }
