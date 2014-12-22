@@ -21,6 +21,15 @@ server.route({
 
 server.route({
   method: 'GET',
+  path: '/.well-known/keybase.txt',
+  handler: function (request, reply) {
+    reply.file('./public/.well-known/keybase.txt');
+    // reply.view('index', { title: 'David Dias' });
+  }
+});
+
+server.route({
+  method: 'GET',
   path: '/{path*}',
   handler: {
     directory: { path: './public', listing: false, index: true }
