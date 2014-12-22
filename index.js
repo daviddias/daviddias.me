@@ -24,7 +24,6 @@ server.route({
   path: '/.well-known/keybase.txt',
   handler: function (request, reply) {
     reply.file('./public/.well-known/keybase.txt');
-    // reply.view('index', { title: 'David Dias' });
   }
 });
 
