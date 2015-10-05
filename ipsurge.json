@@ -1,65 +1,21 @@
 {
   "versions": [
     {
-      "hash": "QmfYd1zuEoxjSK4FoH578vDQrfJ3zeM6EN52HWYP2EN7Ue",
-      "timestamp": "2015-10-04T19:14:43.134Z"
-    },
-    {
-      "hash": "QmfSKXH87fcwkoQPkKv1RD9xvpVea4xaa3ZPPu3gqCCfnh",
-      "timestamp": "2015-10-04T19:16:21.877Z"
-    },
-    {
-      "hash": "QmRtp4kR8316KexAQCAGBPc6KecjVANu2hwQZ4an2q6VHj",
-      "timestamp": "2015-10-04T19:17:37.813Z"
-    },
-    {
-      "hash": "Qme5EFm8fgraoXKTUNDZZPJ6qdrjABxnyPQWUob5MsP1Gu",
-      "timestamp": "2015-10-04T19:21:04.361Z"
-    },
-    {
-      "hash": "QmVNfoG6KQ9bfkAi3Hj5vNGr6cB3NXHW3Vi9Wa4hVMCfgL",
-      "timestamp": "2015-10-04T19:21:22.413Z"
-    },
-    {
-      "hash": "QmfYd1zuEoxjSK4FoH578vDQrfJ3zeM6EN52HWYP2EN7Ue",
-      "timestamp": "2015-10-04T19:24:09.897Z"
-    },
-    {
-      "hash": "Qme5EFm8fgraoXKTUNDZZPJ6qdrjABxnyPQWUob5MsP1Gu",
-      "timestamp": "2015-10-04T19:24:19.155Z"
-    },
-    {
-      "hash": "QmWLizVhS7Fhk6x6EYqiNP2L4DCw5jyWbneWdTnYaZH5Pb",
-      "timestamp": "2015-10-04T19:58:21.887Z"
-    },
-    {
-      "hash": "QmWLizVhS7Fhk6x6EYqiNP2L4DCw5jyWbneWdTnYaZH5Pb",
-      "timestamp": "2015-10-04T19:59:11.569Z"
-    },
-    {
-      "hash": "QmVNfoG6KQ9bfkAi3Hj5vNGr6cB3NXHW3Vi9Wa4hVMCfgL",
-      "timestamp": "2015-10-04T19:59:32.802Z"
-    },
-    {
-      "hash": "QmYxvCd18WxWiKENoVaQWc28GWBZGa2fhTtFSRejhSwFj7",
-      "timestamp": "2015-10-04T19:59:36.151Z"
-    },
-    {
       "hash": "QmXGK992Hbq485sjZygeN3pob11CireBHQeautEVSdpopS",
-      "timestamp": "2015-10-04T19:59:57.700Z"
+      "timestamp": "2015-10-05T08:02:34.028Z"
     },
     {
-      "hash": "QmXGK992Hbq485sjZygeN3pob11CireBHQeautEVSdpopS",
-      "timestamp": "2015-10-04T20:00:33.490Z"
+      "hash": "QmYA7m1W5Ti3mdFStusZy54AeMBa1qWQ8jRZxzW2SFa3SJ",
+      "timestamp": "2015-10-05T08:04:25.507Z"
     },
     {
-      "hash": "QmXGK992Hbq485sjZygeN3pob11CireBHQeautEVSdpopS",
-      "timestamp": "2015-10-04T20:00:38.857Z"
+      "hash": "QmUoAWnwMd86po9JAVJ9DfCm17uD2F9tiLYyT7a4cK6ZaX",
+      "timestamp": "2015-10-05T08:05:39.991Z"
     },
     {
-      "hash": "QmQtunEAAyDe2esejgVj79qUfZVNTo7rJBBbhX7XGyVmFV",
-      "timestamp": "2015-10-04T20:00:43.144Z"
+      "hash": "QmadjZuEhb7FhCfcAVzv4AvCB75uhvFXsURZobE3sqZ1Ec",
+      "timestamp": "2015-10-05T08:06:38.543Z"
     }
   ],
-  "project": "src/public"
+  "path": "src/public"
 }
