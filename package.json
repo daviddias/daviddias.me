@@ -10,7 +10,6 @@
   },
   "scripts": {
     "start": "node src/index.js",
-    "mon": "node_modules/.bin/nodemon index.js",
     "pages": "./node_modules/.bin/jade src/views/index.jade -o src/public -P",
     "sass": "node_modules/.bin/node-sass --output-style compressed src/styles/page.scss src/public/css/page.min.css"
   },
@@ -23,16 +22,10 @@
   "author": "David Dias",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^7.1.1",
     "jade": "^1.7.0"
   },
   "devDependencies": {
-    "brfs": "0.0.8",
-    "browserify": "~3.19.1",
-    "colors": "~0.6.2",
-    "gaze": "~0.4.3",
     "node-sass": "^1.0.3",
-    "node-static": "~0.7.2",
-    "nodemon": "~1.0.8"
+    "node-static": "~0.7.2"
   }
 }
