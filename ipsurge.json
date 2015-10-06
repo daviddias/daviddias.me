@@ -1,0 +1,21 @@
+{
+  "versions": [
+    {
+      "hash": "QmXGK992Hbq485sjZygeN3pob11CireBHQeautEVSdpopS",
+      "timestamp": "2015-10-05T08:02:34.028Z"
+    },
+    {
+      "hash": "QmYA7m1W5Ti3mdFStusZy54AeMBa1qWQ8jRZxzW2SFa3SJ",
+      "timestamp": "2015-10-05T08:04:25.507Z"
+    },
+    {
+      "hash": "QmUoAWnwMd86po9JAVJ9DfCm17uD2F9tiLYyT7a4cK6ZaX",
+      "timestamp": "2015-10-05T08:05:39.991Z"
+    },
+    {
+      "hash": "QmadjZuEhb7FhCfcAVzv4AvCB75uhvFXsURZobE3sqZ1Ec",
+      "timestamp": "2015-10-05T08:06:38.543Z"
+    }
+  ],
+  "path": "src/public"
+}
