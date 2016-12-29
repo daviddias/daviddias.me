@@ -1,0 +1,41 @@
+@font-face {
+  font-family: Asap;
+  src: url(http://fonts.googleapis.com/css?family=Asap);
+}
+
+body {
+  background-color: #fffefb;
+}
+
+header {
+  font-family: 'Asap', sans-serif;
+  font-weight: 700;
+}
+
+section {
+  font-family: 'Asap', sans-serif;
+  font-weight: 700;
+  padding-bottom: 25px;
+}
+
+h1 {
+  color: #0474ba;
+  font-weight: 400;
+}
+
+h2 {
+  color: #0474ba;
+  font-weight: 300;
+  font-size: 30px;
+
+}
+
+p {
+  font-weight: 100;
+  line-height: 25px;
+  font-size: 14px;
+}
+
+a {
+  color: #fffefb;
+}
