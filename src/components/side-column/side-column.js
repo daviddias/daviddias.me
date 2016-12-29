@@ -4,42 +4,38 @@ import { Button } from 'react-bootstrap'
 
 function genButton (url, name) {
   return (
-    <Button bsStyle='primary' bsSize='small' key={url + name}>
+    <Button bsStyle='primary' bsSize='xsmall' key={url + name}>
       <a href={url}>{name}</a>
     </Button>
   )
 }
 
 const buttons = [
- { url: 'http://cv.daviddias.me', name: 'cv.pdf' }
- // { url: '', name: '' },
+  // { url: 'cv.pdf', name: 'cv.pdf' }
+  { url: 'docs/resume.pdf', name: 'resume.pdf' },
+  { url: '#about-me', name: 'about me' },
+  { url: '#latest', name: 'latest' },
+  { url: '#endeavours', name: 'endeavours' },
+  { url: '#experience', name: 'experience' },
+  { url: '#academic', name: 'academic' },
+  { url: '#service', name: 'service' },
+  { url: '#awards', name: 'awards' },
+  { url: '#lxjs', name: 'LXJS' },
+  { url: '#startupscholarship', name: 'Startup Scholarship' },
+  { url: '#deltaapp', name: 'DeltaAPP' },
+  { url: '#devfest', name: 'Google DevFest Portugal' },
+  { url: '#nodecopter', name: 'NodeCopter Lisbon' },
+  { url: '#requirelx', name: 'require(\'lx\')' },
+  { url: '#nodeschool', name: 'nodeschool Lisbon' },
+  { url: '#docker-lisbon', name: 'Docker Lisbon' },
+  { url: '#meteor-lisbon', name: 'Meteor Lisbon' },
+  { url: '#gdg-lisbon', name: 'GDG Lisbon' },
+  { url: '#node-my-ride', name: 'Node My Ride' },
+  { url: '#scholarships', name: 'Scholarships' },
+  { url: '#certifications', name: 'Certifications' },
+  { url: '#google', name: 'Google Student Ambassador' },
+  { url: '#ieee', name: 'IEEE' }
 ]
-
-/*
-a(href='#aboutme') about me
-a(href='#latest') latest
-a(href='#endeavours') endeavours
-a(href='#experience') experience
-a(href='#academic') academic
-a(href='#service') service
-a(href='#awards') awards
-a(href='#hobbies') hobbies
-a(href='#lxjs') LXJS
-a(href='#startupscholarship') Startup Scholarship
-a(href='#deltaapp') DeltaAPP
-a(href='#devfest') Google DevFest Portugal
-a(href='#nodecopter') NodeCopter Lisbon
-a(href='#requirelx') require('lx')
-a(href='#nodeschool') nodeschool Lisbon
-a(href='#docker-lisbon') docker-lisbon
-a(href='#meteor-lisbon') meteor-lisbon
-a(href='#gdg-lisbon') gdg-lisbon
-a(href='#node-my-ride') Node My Ride
-a(href='#scholarships') Scholarships
-a(href='#certifications') Certifications
-a(href='#ieee') IEEE
-a(href='#google') GSA
-*/
 
 class SideColumn extends Component {
   render () {
@@ -67,6 +63,7 @@ class SideColumn extends Component {
           </p>
         </section>
 
+        {/*
         <section>
           <a
             className='twitter-timeline'
@@ -77,6 +74,7 @@ class SideColumn extends Component {
             !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
             `}} />
         </section>
+        */}
 
         <section>
           <iframe
