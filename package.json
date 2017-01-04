@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "main": "src/index.js",
+  "homepage": "./",
   "engines": {
     "node": ">=6.0.0",
     "npm": ">=3.0.0"
@@ -14,7 +15,8 @@
     "bootstrap": "^3.3.7",
     "react": "^15.4.1",
     "react-bootstrap": "^0.30.7",
-    "react-dom": "^15.4.1"
+    "react-dom": "^15.4.1",
+    "react-twitter-widgets": "^1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",

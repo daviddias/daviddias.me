@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
-import './side-column.css'
 import { Button } from 'react-bootstrap'
+import { Timeline } from 'react-twitter-widgets'
+import './side-column.css'
 
 function genButton (url, name) {
   return (
@@ -63,18 +64,10 @@ class SideColumn extends Component {
           </p>
         </section>
 
-        {/*
-        <section>
-          <a
-            className='twitter-timeline'
-            href='https://twitter.com/daviddias'
-            data-widget-id='546661201862594562'>Tweets by @daviddias</a>
-          <script dangerouslySetInnerHTML={{ __html:
-            `
-            !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');
-            `}} />
-        </section>
-        */}
+        <Timeline
+          dataSource={{sourceType: 'profile', screenName: 'daviddias'}}
+          options={{username: 'daviddias', height: '400'}}
+        />
 
         <section>
           <iframe
