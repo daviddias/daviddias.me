@@ -1,7 +1,4 @@
-David Dias personal page
-=========================
-
+David Dias Webpage
+==================
 
 http://daviddias.me
-
-**ONGOING REFRESH**
