@@ -5,7 +5,7 @@ title = "Publications and Talks"
 # Academic Publications
 
 - [2016 | ICWE 2016 - Distributed Web Applications with IPFS, Tutorial](https://link.springer.com/chapter/10.1007/978-3-319-38791-8_60). [`Book`](https://books.google.co.uk/books?id=onRBDAAAQBAJ&lpg=PR5&ots=MQfqOBex1w&dq=David%20Dias%20IPFS&lr&pg=PR21#v=onepage&q=David%20Dias%20IPFS&f=false)
-- 2015 browserCloud.js [M.Sc Thesis](https://pdfs.semanticscholar.org/b438/811cee91cf2b9a0f082d3f77c47dd85f36a4.pdf) [M.Sc Thesis Project Proposal](http://algos.inesc-id.pt/~jpa/InscI/poisson/varwwwhtml/portal/ficheiros/publicacoes/10069.pdf)
+- 2015 browserCloud.js [`M.Sc Thesis`](https://pdfs.semanticscholar.org/b438/811cee91cf2b9a0f082d3f77c47dd85f36a4.pdf) [`M.Sc Thesis project proposal`](http://algos.inesc-id.pt/~jpa/InscI/poisson/varwwwhtml/portal/ficheiros/publicacoes/10069.pdf)
 
 # Talks
 
