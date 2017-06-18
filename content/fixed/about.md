@@ -8,18 +8,18 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 
 # endeavours
 
-- LXJS - Lisbon Javascript Conference
-- Startup Scholarship
+- [LXJS - Lisbon Javascript Conference](http://lxjs.org/) [2012](http://2012.lxjs.org/) [2013](http://2013.lxjs.org/) [2014](http://2014.lxjs.org/)
+- [Startup Scholarship](http://startupscholarship.org/)
 - DeltaAPP
 - Google DevFest Portugal
-- NodeCopter Lisbon
-- require('lx')
+- [NodeCopter Lisbon](http://www.nodecopter.com/2013/lisbon/oct-4)
+- require('lx') - The Lisbon JavaScript and Node.js Meetup
 - nodeschool Lisbon
 - docker-lisbon
 - meteor-lisbon
 - gdg-lisbon
 - Node My Ride
-- Node Security Project
+- [Node Security Project](https://nodesecurity.io)
 - TISP 2.0
 
 # experience
@@ -73,17 +73,19 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 
 ### IEEE
 
+- 2013 - 2014 | Computer Society Membership Development Coordinator for Region 8 (EMEA)
+- 2013 | IEEE Region 8 (EMEA) Electronic Communications Coordinator
+- 2013 | IEEE Region 8 (EMEA) madC (Mobile Application Development Competition) Advisor and Judge
 - 2012 - 2013 | IEEE-IST Chairperson
 - 2012 - 2013 | IEEE Portugal Section WebMaster
 - 2012 - 2013 | IEEE Computer Society Student Ambassador for Region 8 (EMEA)
 - 2013 | IEEE Region 8 (EMEA) Electronic Communications Coordinator
 - 2013 | IEEE Region 8 (EMEA) madC (Mobile Application Development Competition) Advisor and Judge
-- 2013 - 2014 | Computer Society Membership Development Coordinator for Region 8 (EMEA)
 
 ### Google
 
+- 2013 | Google DevFest Lisbon Organizer Founder and Curator
 - 2012 - 2013 | Google Student Ambassador for Europe
-- 2013 | Google DevFest Lisbon Main Organizer
 
 # awards
 
