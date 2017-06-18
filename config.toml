@@ -34,7 +34,7 @@ url                    = "/publications-and-talks/"
 
 [[menu.main]]
 name                   = "Resume"
-weight                 = -100
+weight                 = -90
 identifier             = "resume"
 url                    = "/resume.pdf"
 
