@@ -6,8 +6,6 @@ contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
 publishdir          = "public"
-author              = "David Dias"
-title               = "David Dias"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
 googleAnalytics     = "UA-42568283-2"
@@ -16,8 +14,33 @@ googleAnalytics     = "UA-42568283-2"
 fixed = ":title/"
 blog  = "blog/:slug/"
 
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -110
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Publications and Talks"
+weight                 = -100
+identifier             = "publications-and-talks"
+url                    = "/publications-and-talks/"
+
+[[menu.main]]
+name                   = "Resume"
+weight                 = -100
+identifier             = "resume"
+url                    = "/resume.pdf"
+
 [params]
 author       = "David Dias"
+title        = "David Dias"
 # add the current unix timestamp in query string for cache busting css assets
 cachebuster  = false 
 dateform     = "Jan 2, 2006"
@@ -34,5 +57,5 @@ selfIntro    = "" # appears in the site header when set to a non-empty string
 forcehttps   = false # use a script to detect whether visitors should be redirected to https
 
 # gravatar             = "" # do not use in the same time as avatar
-avatar                 = "img/avatar.jpg"
+avatar                 = "/img/avatar.jpg"
 # highlightjslanguages = ["go"] # additional languages not included in the "common" set

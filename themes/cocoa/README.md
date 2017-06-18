@@ -17,6 +17,7 @@ A consistent and responsive [Hugo](http://gohugo.io) [theme](https://github.com/
 * Optimized SVG icons (by @robinst)
 * Cache busting
 * Google Analytics
+* Piwik
 ```
 
 Most features are optional and can be individually enabled/disabled in your [`config.toml`](https://github.com/nishanths/cocoa-hugo-theme/blob/master/exampleSite/config.toml).
@@ -29,6 +30,9 @@ Most features are optional and can be individually enabled/disabled in your [`co
 
 <img src="https://i.imgur.com/5jI8kEU.png" width="400">
 
+### Switch between languages
+
+![german screenshot](https://raw.githubusercontent.com/lpancescu/cocoa-hugo-theme/master/scr.de-fullpage.png) ![english screenshot](https://raw.githubusercontent.com/lpancescu/cocoa-hugo-theme/master/scr.en-fullpage.png)
 
 ## Table of Contents
 
