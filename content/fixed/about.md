@@ -31,6 +31,13 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 - 2013 | Node Firm Summer Intern
 - 2012 | Entertainer and Supervisor at Children/Teenager Summer Camp
 
+# students
+
+- [Enrico Marino](https://enricomarino.com/), Ph.D candidate at RomaTre University, Rome Italy - InterPlanetary WebSpace
+- [João Santos](), M.Sc candidate at Instituto Superior Técnico, Lisbon, Portugal - HyperCerts
+- [João Tiago](http://johnytiago.github.io/), M.Sc candidate at Instituto Superior Técnico, Lisbon, Portugal - TBA
+- [João Antunes](https://joaoantunes.me), M.Sc candidate at Instituto Superior Técnico, Lisbon, Portugal - TBA
+
 # education
 
 ### degree
