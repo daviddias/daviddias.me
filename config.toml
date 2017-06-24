@@ -8,7 +8,7 @@ layoutdir           = "layouts"
 publishdir          = "public"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
-googleAnalytics     = "UA-42568283-2"
+googleAnalytics     = "UA-42568283-1"
 
 [permalinks]
 fixed = ":title/"
