@@ -33,15 +33,21 @@ identifier             = "publications-and-talks"
 url                    = "/publications-and-talks/"
 
 [[menu.main]]
-name                   = "Resume"
+name                   = "Mentoring and Teaching"
 weight                 = -90
+identifier             = "mentoring-and-teaching"
+url                    = "/mentoring-and-teaching/"
+
+[[menu.main]]
+name                   = "Resume"
+weight                 = -80
 identifier             = "resume"
 url                    = "/resume.pdf"
 
 [params]
+# See more at https://github.com/nishanths/cocoa-hugo-theme/blob/master/exampleSite/config.toml
 author       = "David Dias"
 title        = "David Dias"
-# add the current unix timestamp in query string for cache busting css assets
 cachebuster  = false 
 dateform     = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
@@ -55,7 +61,7 @@ linkedin     = "//linkedin.com/in/diasdavid"
 twitter      = "//twitter.com/daviddias"
 selfIntro    = "" # appears in the site header when set to a non-empty string
 forcehttps   = false # use a script to detect whether visitors should be redirected to https
+avatar       = "/img/avatar.jpg"
+# gravatar   = "" # do not use in the same time as avatar
 
-# gravatar             = "" # do not use in the same time as avatar
-avatar                 = "/img/avatar.jpg"
-# highlightjslanguages = ["go"] # additional languages not included in the "common" set
+highlightjslanguages = ["go"] # additional languages not included in the "common" set
