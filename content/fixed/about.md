@@ -10,7 +10,7 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 
 - [LXJS - Lisbon Javascript Conference](http://lxjs.org/) [2012](http://2012.lxjs.org/) [2013](http://2013.lxjs.org/) [2014](http://2014.lxjs.org/)
 - [Startup Scholarship](http://startupscholarship.org/)
-- DeltaAPP
+- [DeltaAPP](https://web.archive.org/web/20160308015455/http://betdeltaapp.ieee-ist.org/)
 - Google DevFest Portugal
 - [NodeCopter Lisbon](http://www.nodecopter.com/2013/lisbon/oct-4)
 - require('lx') - The Lisbon JavaScript and Node.js Meetup
@@ -30,13 +30,6 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 - 2013 - 2014 | Node Firm Node.js Engineer
 - 2013 | Node Firm Summer Intern
 - 2012 | Entertainer and Supervisor at Children/Teenager Summer Camp
-
-# students
-
-- [Enrico Marino](https://enricomarino.com/), Ph.D candidate at RomaTre University, Rome Italy - InterPlanetary WebSpace
-- [João Santos](), M.Sc candidate at Instituto Superior Técnico, Lisbon, Portugal - HyperCerts
-- [João Tiago](http://johnytiago.github.io/), M.Sc candidate at Instituto Superior Técnico, Lisbon, Portugal - TBA
-- [João Antunes](https://joaoantunes.me), M.Sc candidate at Instituto Superior Técnico, Lisbon, Portugal - TBA
 
 # education
 
@@ -112,3 +105,17 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 - Surf
 - Skimboard
 - Music
+
+# Bio
+
+## One line
+
+`soon™`
+
+## Short bio
+
+`soon™`
+
+## Long bio
+
+`soon™`
