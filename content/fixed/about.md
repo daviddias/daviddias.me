@@ -8,21 +8,23 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 
 # endeavours
 
-- [LXJS - Lisbon Javascript Conference](http://lxjs.org/) [2012](http://2012.lxjs.org/) [2013](http://2013.lxjs.org/) [2014](http://2014.lxjs.org/)
+Current and past
+
+- [LXJS - Lisbon Javascript Conference](http://lxjs.org/) [`2012`](http://2012.lxjs.org/) [`2013`](http://2013.lxjs.org/) [`2014`](http://2014.lxjs.org/)
 - [Startup Scholarship](http://startupscholarship.org/)
 - [DeltaAPP](https://web.archive.org/web/20160308015455/http://betdeltaapp.ieee-ist.org/)
-- Google DevFest Portugal
+- Google DevFest Portugal 2013 (the first Google DevFest in Portugal)
 - [NodeCopter Lisbon](http://www.nodecopter.com/2013/lisbon/oct-4)
-- require('lx') - The Lisbon JavaScript and Node.js Meetup
+- [require('lx') - The Lisbon JavaScript and Node.js Meetup](http://meetup.com/require-lx/)
 - nodeschool Lisbon
-- docker-lisbon
-- meteor-lisbon
-- gdg-lisbon
+- docker-lisbon - The Lisbon Docker Meetup
+- meteor-lisbon - The Lisbon Meteor Meetup
+- gdg-lisbon - The Google Developer Group Meetup Lisbon
 - Node My Ride
 - [Node Security Project](https://nodesecurity.io)
-- TISP 2.0
+- TISP 2.0 - IEEE Teacher in Service
 
-# experience
+# [experience](#experience)
 
 - 2015 - present | Protocol Labs Peer-to-Peer Software Engineer
 - 2014 - 2015 | &yet ^Lift Node.js Engineer and client enthusiast
@@ -31,12 +33,12 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 - 2013 | Node Firm Summer Intern
 - 2012 | Entertainer and Supervisor at Children/Teenager Summer Camp
 
-# education
+# [education](#education)
 
 ### degree
 
 - B.Sc in Communication Networks
-- M.Sc with Major in Peer-to-Peer Networks
+- M.Sc with Major in Peer-to-Peer Networks, Cloud Computing and Mobile Applications
 
 ### fun academic projects
 
@@ -69,7 +71,7 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 - 2010 | IEEE Teacher In-Service Program (TISP) by IEEE EAB
 - 2010 | Advanced Linux by NPGFC-IST
 
-# service
+# [service](#service)
 
 ### IEEE
 
@@ -87,7 +89,7 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 - 2013 | Google DevFest Lisbon Organizer Founder and Curator
 - 2012 - 2013 | Google Student Ambassador for Europe
 
-# awards
+# [awards](#awards)
 
 - Aug 2012 | Winner of Richard E. Merwin Award by IEEE Computer Society
 - Jul 2012 | 1st Place IEEE Region 8 (EMEA) Website Contest
@@ -95,7 +97,7 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 - Dec 2011 | 1st Place at Microsoft Windows Phone App Code Camp, Palmela, Portugal
 - Dec 2011 | 2nd Place with a honorable award at Google Case Competition on BET24H Entrepreneurial Competiton
 
-# hobbies
+# [hobbies](#hobbies)
 
 - Capoeira
 - Scuba Diving
@@ -106,7 +108,11 @@ I consider myself to be one from many™ lucky bastards™ that found their oppo
 - Skimboard
 - Music
 
-# Bio
+# [online profiles](#online-profiles)
+
+- [Good Reads](https://www.goodreads.com/daviddias)
+
+# [bio](#bio)
 
 ## One line
 
