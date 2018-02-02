@@ -1,7 +1,7 @@
 ---
 title: What is it that keeps moving you forward?
 date: "2017-05-25"
-slug: "maxims"
+slug: "basic-principles"
 tags:
   - "essay"
 ---
@@ -29,8 +29,12 @@ Nowadays, we are taught to listen to answer and not to interiorize. This behavio
 If you are like me, your enthusiasm might try to drive entire conversations. This is often great as excitement is contagious, yet it comes with the risk of missing a contribution.
  
 I need to revisit this one often, as I regularly fall into the trap of talking a lot.
- 
-## We have a strategic plan, it’s called doing things
+
+
+
+## 1 > 0
+
+We have a strategic plan, it’s called doing things
  
 ![](/img/doing-things-wallpaper.jpg)
  
@@ -52,7 +56,6 @@ If you see that few individuals do the majority of the work, it is great to prai
  
 Creating environments where people feel safe and valued is the best way to create inclusive ecosystems. A byproduct of this is that you get to attract other amazing individuals.
  
- 
 ## Everyone is stardust
  
 I tell myself that I’m only a tiny little event that happened in this timeline of the universe. It reminds me how little there is to be afraid of failing. Steve Jobs described this feeling in this famous Stanford commencement speech with “You are already naked”.
@@ -70,7 +73,11 @@ When you commit to something huge, the first challenge is to go through the poin
 It is like jumping of a plane with no parachute and then having to build the parachute while you are free-falling. The human body was designed to resist situations of great stress. Use that to your advantage.
  
 It will be crucial to remind yourself of why you started such an endeavour.
- 
+
+## Persistance, Courage and Confidence trumps everything
+
+dada
+
 ## Teach, be a mentor and share your values
  
 I’ve had the chance to mentor many young entrepreneurs and engineers. Some of the high school students I worked with had no idea how to plan their future. I had no clue at the time, but each time you teach something, there is a piece of you that stays with the person and, eventually, that piece will come back amplified, people will take that teaching, apply it and create so much value. hen you get to hear that person echoing pieces of the conversation(s) you had years before, sometimes word by word, at that moment, you just think: "Ah! I remember perfectly how I developed that thought and I remember sharing it with you, I remember now how that is important and how it is part of who I am". This has happened to me, countless times, both as the mentor but also as the mentee.
