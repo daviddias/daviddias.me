@@ -1,10 +1,34 @@
 ---
-title: What is it that keeps moving you forward?
+title: Basic Principles
 date: "2017-05-25"
 slug: "basic-principles"
 tags:
   - "essay"
 ---
+
+Outline
+- Motivation - What keeps you going, focused and headed on the right direction
+- Enter Basic Principles - compare to physics (not laws, but you can see that they are there)
+- Goal - Have a compass
+- My principles
+  - Two ears, one mouth
+  - 1 > 0
+  - You can be great, but you can't do great alone
+  - Stardust, time fragment
+  - Encouragement is key
+  - Do Hard Things
+  - Courage & Persistence trumps everything
+  - Teach
+  - Focus on the ball
+    - study on high competition atletes desire to focus more
+  - Recognize Vain and avoid it
+
+TODO:
+- Read other work on Basic Principles
+- Review notes and quotes and see 
+
+---------------
+---------------
 
 > “The possibility of that which has never occurred cannot be determined by opinion—only by an attempt.” – Dee Hock Biography, One From Many
  
@@ -78,8 +102,14 @@ It will be crucial to remind yourself of why you started such an endeavour.
 
 dada
 
+- Life is going to hit you with a brick, do not lose faith
+- 
+
 ## Teach, be a mentor and share your values
- 
+
+- 
+- 
+
 I’ve had the chance to mentor many young entrepreneurs and engineers. Some of the high school students I worked with had no idea how to plan their future. I had no clue at the time, but each time you teach something, there is a piece of you that stays with the person and, eventually, that piece will come back amplified, people will take that teaching, apply it and create so much value. hen you get to hear that person echoing pieces of the conversation(s) you had years before, sometimes word by word, at that moment, you just think: "Ah! I remember perfectly how I developed that thought and I remember sharing it with you, I remember now how that is important and how it is part of who I am". This has happened to me, countless times, both as the mentor but also as the mentee.
 ```
  
