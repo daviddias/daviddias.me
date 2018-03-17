@@ -5,10 +5,36 @@ relativeURLs        = true
 contentdir          = "content"
 languageCode        = "en-US"
 layoutdir           = "layouts"
+theme               = "cocoa"
 publishdir          = "public"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
 googleAnalytics     = "UA-42568283-1"
+
+[params]
+# See more at https://github.com/nishanths/cocoa-hugo-theme/blob/master/exampleSite/config.toml
+author              = "David Dias"
+title               = "David Dias"
+# latestpostscount    = 5
+cachebuster         = false
+dateform            = "Jan 2, 2006"
+dateformfull        = "Mon Jan 2 2006 15:04:05 MST"
+description         = ""
+email               = "mail@daviddias.me"
+faviconfile         = "img/favicon.ico"
+lang                = "en"
+github              = "//github.com/diasdavid"
+linkedin            = "//linkedin.com/in/diasdavid"
+twitter             = "//twitter.com/daviddias"
+instagram           = "//instagram.com/david.dias"
+px500               = "//500px.com/ineffable"
+selfIntro           = ""          # appears in the site header when set to a non-empty string
+forcehttps          = false       # use a script to detect whether visitors should be redirected to https
+include_rss          = true       # include RSS <link> tag in <head> and show RSS icon
+highlightjs          = true
+highlightjslanguages = ["go"]     # additional languages not included in the "common" set
+avatar               = "/img/avatar.jpg"
+# gravatar           = ""         # do not use in the same time as avatar
 
 [permalinks]
 fixed = ":title/"
@@ -43,25 +69,3 @@ name                   = "Resume"
 weight                 = -80
 identifier             = "resume"
 url                    = "/resume.pdf"
-
-[params]
-# See more at https://github.com/nishanths/cocoa-hugo-theme/blob/master/exampleSite/config.toml
-author       = "David Dias"
-title        = "David Dias"
-cachebuster  = false 
-dateform     = "Jan 2, 2006"
-dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description  = ""
-email        = "mail@daviddias.me"
-faviconfile  = "img/favicon.ico"
-highlightjs  = true
-lang         = "en"
-github       = "//github.com/diasdavid"
-linkedin     = "//linkedin.com/in/diasdavid"
-twitter      = "//twitter.com/daviddias"
-selfIntro    = "" # appears in the site header when set to a non-empty string
-forcehttps   = false # use a script to detect whether visitors should be redirected to https
-avatar       = "/img/avatar.jpg"
-# gravatar   = "" # do not use in the same time as avatar
-
-highlightjslanguages = ["go"] # additional languages not included in the "common" set
