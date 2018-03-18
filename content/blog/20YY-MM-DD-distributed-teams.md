@@ -5,6 +5,7 @@ slug: "distributed-teams"
 tags:
   - "Productivity"
   - "Collaboration"
+draft: true
 ---
 
 Outline

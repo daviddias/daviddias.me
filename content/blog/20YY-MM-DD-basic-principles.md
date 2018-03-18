@@ -4,6 +4,7 @@ date: "2017-05-25"
 slug: "basic-principles"
 tags:
   - "essay"
+draft: true
 ---
 
 Outline
