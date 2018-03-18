@@ -7,7 +7,7 @@ tags:
   - "JavaScript"
 ---
 
-Recently, I've delivered an impromptu talk at Lisbon, the world's most northen JavaScript Conference. The talk was about JavaScript for Higher Education.
+Recently, I've delivered an impromptu talk at [ArticJS](https://arcticjs.club), the world's most northen JavaScript Conference. The talk was about JavaScript for Higher Education.
 
 ![](/img/northen-lights.jpg)
 > Some of the attendees of ArcticJS getting completely blown away with the Northen Lights
