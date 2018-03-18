@@ -1,6 +1,6 @@
 ---
 title: Distributed Deams
-date: "2017-MM-DD"
+date: "3000-10-10"
 slug: "distributed-teams"
 tags:
   - "Productivity"

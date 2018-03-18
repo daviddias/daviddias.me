@@ -1,6 +1,6 @@
 ---
 title: "Real Time Communications - The P2P applications challenges and how WebRTC solves them"
-date: "2015-09-21"
+date: "3000-10-10"
 slug: "rtc-challenges-solved-by-webrtc"
 tags:
   - "webrtc"

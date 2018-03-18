@@ -1,6 +1,6 @@
 ---
 title: Basic Principles
-date: "2017-05-25"
+date: "3000-10-10"
 slug: "basic-principles"
 tags:
   - "essay"
