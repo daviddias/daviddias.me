@@ -11,6 +11,42 @@ pygmentsuseclasses  = true
 pluralizelisttitles = false
 googleAnalytics     = "UA-42568283-1"
 
+[permalinks]
+fixed = ":title/"
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -50
+identifier             = "blog"
+url                    = "/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -40
+identifier             = "about"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Publications and Talks"
+weight                 = -30
+identifier             = "publications-and-talks"
+url                    = "/publications-and-talks/"
+
+[[menu.main]]
+name                   = "Mentoring and Teaching"
+weight                 = -20
+identifier             = "mentoring-and-teaching"
+url                    = "/mentoring-and-teaching/"
+
+[[menu.main]]
+name                   = "Resume"
+weight                 = -10
+identifier             = "resume"
+url                    = "/resume.pdf"
+
+## ------------------------
+
 [params]
 # See more at https://github.com/nishanths/cocoa-hugo-theme/blob/master/exampleSite/config.toml
 author              = "David Dias"
@@ -36,36 +72,3 @@ highlightjslanguages = ["go"]     # additional languages not included in the "co
 avatar               = "/img/avatar.jpg"
 # gravatar           = ""         # do not use in the same time as avatar
 
-[permalinks]
-fixed = ":title/"
-blog  = "blog/:slug/"
-
-[[menu.main]]
-name                   = "Blog"
-weight                 = -120
-identifier             = "blog"
-url                    = "/"
-
-[[menu.main]]
-name                   = "About"
-weight                 = -110
-identifier             = "about"
-url                    = "/about/"
-
-[[menu.main]]
-name                   = "Publications and Talks"
-weight                 = -100
-identifier             = "publications-and-talks"
-url                    = "/publications-and-talks/"
-
-[[menu.main]]
-name                   = "Mentoring and Teaching"
-weight                 = -90
-identifier             = "mentoring-and-teaching"
-url                    = "/mentoring-and-teaching/"
-
-[[menu.main]]
-name                   = "Resume"
-weight                 = -80
-identifier             = "resume"
-url                    = "/resume.pdf"
