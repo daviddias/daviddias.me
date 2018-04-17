@@ -1,1 +1,1 @@
-hugo -t cocoa --watch serve
+hugo server --disableFastRender --watch -t cocoa -p 9090
