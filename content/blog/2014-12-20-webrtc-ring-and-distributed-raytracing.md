@@ -3,7 +3,7 @@ title: "Resource discovery through WebRTC - webrtc-ring"
 date: "2014-12-20"
 slug: "webrtc-ring"
 tags: 
-  - "webrtc"
+  - "WebRTC"
   - "browser"
   - "web platform"
   - "P2P"
