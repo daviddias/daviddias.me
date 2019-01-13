@@ -2,4 +2,4 @@
 title = "notebook"
 +++
 
-`placeholder for sebentas`
+_This is a WIP page_. I'm recompiling my notes into actual readable notebooks.

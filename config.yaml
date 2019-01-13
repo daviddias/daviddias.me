@@ -37,25 +37,29 @@ menu:
     url: /index.xml
     weight: 4
   - name: About
-    pre: zap
+    pre: compass
     url: /about/
     weight: 5
   - name: Notebook
     pre: book-open
     url: /notebook/
     weight: 6
+  - name: Endeavours
+    pre: zap
+    url: /endeavours/
+    weight: 10
   - name: Publications and Talks
     pre: bookmark
     url: /publications-and-talks/
-    weight: 10
+    weight: 11
   - name: Mentoring and Teaching
     pre: smile
     url: /mentoring-and-teaching/
-    weight: 11
-  - name: Resume
-    pre: file-plus
-    url: /resume.pdf
     weight: 12
+  - name: Resume
+    pre: file-text
+    url: /resume.pdf
+    weight: 13
 
 params:
   includeBootstrapJs: false
