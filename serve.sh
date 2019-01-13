@@ -1,1 +1,1 @@
-hugo server --disableFastRender --watch -t cocoa -p 9090
+hugo server --disableFastRender --watch -t vanilla-bootstrap-hugo-theme -p 1313

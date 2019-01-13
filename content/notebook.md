@@ -1,5 +1,5 @@
 +++
-title = "notebooks"
+title = "notebook"
 +++
 
 `placeholder for sebentas`
