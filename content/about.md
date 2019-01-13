@@ -2,8 +2,6 @@
 title = "about"
 +++
 
-# about me
-
 I consider myself to be one from many™ lucky bastards™ that found their opportunity to work with the most hard working and passionate people in humbling and encouraging endeavour such as <a href='http://lxjs.org'>LXJS</a>, the Lisbon Javascript Conference and <a href='http://startupscholarship.org'>Startup Scholarship</a> the first startup internship summer program in Portugal with a summer school and immersion program. I've a MSc in Engineering with major in Peer-to-Peer Networks from <a href='http://tecnico.ulisboa.pt/en/'>Technical University of Lisbon</a>.
 
 # endeavours
@@ -24,7 +22,7 @@ Current and past
 - [Node Security Project](https://nodesecurity.io)
 - TISP 2.0 - IEEE Teacher in Service
 
-# [experience](#experience)
+# experience
 
 - `2015 - present` | Protocol Labs Peer-to-Peer Software Engineer
 - `2014 - 2015` | &yet ^Lift Node.js Engineer and client enthusiast
@@ -33,7 +31,7 @@ Current and past
 - `2013` | Node Firm Summer Intern
 - `2012` | Entertainer and Supervisor at Children/Teenager Summer Camp
 
-# [education](#education)
+# education
 
 ### degree
 
@@ -71,7 +69,7 @@ Current and past
 - `2010` | IEEE Teacher In-Service Program (TISP) by IEEE EAB
 - `2010` | Advanced Linux by NPGFC-IST
 
-# [service](#service)
+# service
 
 ### IEEE
 
@@ -89,7 +87,7 @@ Current and past
 - `2013` | Google DevFest Lisbon Organizer Founder and Curator
 - `2012 - 2013` | Google Student Ambassador for Europe
 
-# [awards](#awards)
+# awards
 
 - `Aug 2012` | Winner of Richard E. Merwin Award by IEEE Computer Society
 - `Jul 2012` | 1st Place IEEE Region 8 (EMEA) Website Contest
@@ -97,7 +95,7 @@ Current and past
 - `Dec 2011` | 1st Place at Microsoft Windows Phone App Code Camp, Palmela, Portugal
 - `Dec 2011` | 2nd Place with a honorable award at Google Case Competition on BET24H Entrepreneurial Competiton
 
-# [hobbies](#hobbies)
+# hobbies
 
 - Capoeira
 - Scuba Diving
@@ -108,7 +106,7 @@ Current and past
 - Skimboard
 - Music
 
-# [bio](#bio)
+# bio
 
 To be written.
 
