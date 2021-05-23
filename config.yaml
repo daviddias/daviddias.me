@@ -19,7 +19,7 @@ permalinks:
 
 # See https://feathericons.com - The value of pre is the icon name
 menu:
-  main:
+  nav:
   - name: Home
     pre: home
     url: /
@@ -68,3 +68,36 @@ params:
   dateFormat: Jan 2, 2006
   homeText: Ohai! Welcome to my page. I write here sometimes
   footerText: ♥
+  hideFooter: false
+  katex: true
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
