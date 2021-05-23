@@ -3,7 +3,7 @@ DOMAIN="daviddias.me"
 
 IPFS="ipfs"
 IPFSLOCAL="http://localhost:8080/ipfs/"
-IPFSGATEWAY="https://ipfs.io/ipfs/"
+IPFSGATEWAY="https://gateway.ipfs.io/ipfs/"
 OUTPUTDIR=public
 THEME=vanilla-bootstrap-hugo-theme
 
